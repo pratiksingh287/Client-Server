@@ -1,0 +1,5 @@
+Pratik Pramod Singh1001670417DS LAB-227TH MARCH 2019For the course work CSE-5306 Lab-1, I’ve submitted the file ‘singh_pps0417’ which contains all the class and java files required to run this project.The instructions to run this are as follows:-1. Open the Folder in Eclipse2. Run The java files in the order3. Server.java4. Client.java5. GUIServer.java6. GUIClient.java (Run it multiple times for multiple clients)7. You’ll see multiple gui. Opening for server and clients8. Start the server (Press start) and connect the client on the similar port number.(Press      the login button)9. Now you can communicate and see who all are connected using ‘whoisin’ button10. It has a timer for each client which is incremented randomly.
+11. To Update the timer across the clients, just click on the update button and it will send the message across the other clients.
+12.  To disconnect the client press the logout button or to stop the server press stop      
+**** [p.s if the server doesn’t starts, try changing the port number]****REFERENCES:-1. Github.com2. eTutorials.org3. stackoverflow.com4. allanswered.com5. Stackexchange.com
+6. bytes.com
